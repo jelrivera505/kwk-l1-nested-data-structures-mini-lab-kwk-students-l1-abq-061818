@@ -7,7 +7,7 @@ ingredients = [
 ]
 
 def sandwich_request(ingredients, order) 
-  ["rye", "tofo", "cheddar"]
+  ingredients.each do |order| 
 end
 
 # example city_info hash
